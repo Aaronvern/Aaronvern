@@ -2,8 +2,6 @@
 
 <h1 align="center"></h1> 
 
-
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -24,7 +22,7 @@
 <h1 align="center"></h1>
 
 <!-- About Section -->
-<custom style="font-family: monospace; font-size: 2.3em;font-weight:bold; padding: 0.2em 0.5em;"> About me :</custom>
+<h1><samp style="font-family: monospace; font-size: 2;font-weight:bold;">About me :</samp></h1>
 <hr/>
 <br/>
 
@@ -44,7 +42,7 @@
 <br/>
 
 
-<custom style="font-family: monospace; font-size: 2em;font-weight:bold; padding: 0.2em 0.5em;">Languages and Tools :</custom>
+<h2><samp style="font-family: monospace; font-size: 2;font-weight:bold;">Languages and Tools :</samp></h2>
 
 <hr/>
 <br/>
@@ -68,9 +66,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br/>
 <br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khardikk/khardikk/output/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khardikk/khardikk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khardikk/khardikk/output/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg">
+</picture>
 <br/>
-
-<custom style="font-family: monospace; font-size: 2.2em;font-weight:bold; padding: 0.2em 0.5em;">Github stats</custom>
+<h2><samp style="font-family: monospace; font-size: 2;font-weight:bold;">Github stats :</samp></h2>
 <hr/>
 <br/>
 
