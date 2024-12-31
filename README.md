@@ -4,7 +4,7 @@
 <!-- Intro  -->
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/aaronvern" width="1000" height="500"/>
+  <img src="https://render.gitanimals.org/lines/aaronvern" width="1000" height="110"/>
 </a>
 <h3 align="center">
         <samp>&gt; Hey There!, I am
