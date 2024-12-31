@@ -27,26 +27,23 @@
 <hr/>
 <br/>
 
-  <div style="display: flex; align-items: center; justify-content: space-between;">
-
-<div>
-
-<samp>
-⚙️  &emsp; I mainly build super pretty and performant web apps.<br/><br/>
-📡 &emsp; I like Web3<br/><br/>
-📧 &emsp; Reach me anytime: aaronvernekar@gmail.com<br/><br/>
-💬 &emsp; Ask me about anything [here](https://twitter.com/Aaronvern11)
-</samp>
-
-</div>
-
-<div>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/aaronvern" width="500" height="100"/>
-</a>
-</div>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <samp>
+        ⚙️  &emsp; I mainly build super pretty and performant web apps.<br/><br/>
+        📡 &emsp; I like Web3<br/><br/>
+        📧 &emsp; Reach me anytime: aaronvernekar@gmail.com<br/><br/>
+        💬 &emsp; Ask me about anything <a href="https://twitter.com/Aaronvern11">here</a>
+      </samp>
+    </td>
+    <td>
+      <a href="https://github.com/devxb/gitanimals">
+        <img src="https://render.gitanimals.org/lines/aaronvern" width="500" height="100"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 <br/>
