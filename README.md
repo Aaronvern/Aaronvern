@@ -1,11 +1,10 @@
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/aaronvern" width="1000" height="90"/>
+</a>
 <h1 align="center"></h1> 
-
 <!-- Intro  -->
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/aaronvern" width="1000" height="110"/>
-</a>
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="">Aaron</a></b>
