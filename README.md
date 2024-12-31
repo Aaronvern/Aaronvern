@@ -26,7 +26,6 @@
 <h1><samp style="font-family: monospace; font-size: 2;font-weight:bold;">About me :</samp></h1>
 <hr/>
 <br/>
-
 <table style="border-collapse: collapse; width:100%;">
   <tr>
     <td style="border: none; width: 75%; vertical-align: top;">
@@ -44,7 +43,6 @@
     </td>
   </tr>
 </table>
-
 <br>
 
 
