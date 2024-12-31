@@ -1,9 +1,11 @@
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/aaronvern" width="1000" height="60"/>
+  <img src="https://render.gitanimals.org/lines/aaronvern" width="10000" height="100"/>
 </a>
 <h1 align="center"></h1> 
 <!-- Intro  -->
+
+
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
