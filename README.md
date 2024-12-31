@@ -49,7 +49,10 @@
 <a href="https://github.com/devxb/gitanimals">
     <img alt="docs/sample.svg" src="https://render.gitanimals.org/farms/aaronvern"/>
 </a>
-</dive>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}" width="1000" height="120"/>
+</a>
+</div>
 
 <h2><samp style="font-family: monospace; font-size: 2;font-weight:bold;">Languages and Tools :</samp></h2>
 
