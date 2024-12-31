@@ -2,6 +2,10 @@
 <h1 align="center"></h1> 
 
 <!-- Intro  -->
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/aaronvern" width="1000" height="500"/>
+</a>
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="">Aaron</a></b>
@@ -42,17 +46,6 @@
 
 <br>
 
-<h1><samp style="font-family: monospace; font-size: 2;font-weight:bold;">my git pets :</samp></h1>
-<hr/>
-<br/>
-<div align="center">
-<a href="https://github.com/devxb/gitanimals">
-    <img alt="docs/sample.svg" src="https://render.gitanimals.org/farms/aaronvern"/>
-</a>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/aaronvern" width="1000" height="120"/>
-</a>
-</div>
 
 <h2><samp style="font-family: monospace; font-size: 2;font-weight:bold;">Languages and Tools :</samp></h2>
 
