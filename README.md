@@ -29,9 +29,8 @@
  
 <samp>
 
- ⚙️  &emsp; I specialize in crafting dynamic web applications with the MERN stack features.<br/><br/>
- ❤️  &emsp; Passionate about programming and eager to share knowledge<br/><br/>
- 📡 &emsp; I'm enthusiastic about open source and intrigued by Web3<br/><br/>
+ ⚙️  &emsp; I mainly build super pretty and performant web apps .<br/><br/>
+ 📡 &emsp; I like Web3<br/><br/>
  📧 &emsp; Reach me anytime: aaronvernekar@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://twitter.com/Aaronvern11)
 
