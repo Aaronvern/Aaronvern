@@ -40,6 +40,17 @@
 <br/>
 
 
+<br>
+
+<h1><samp style="font-family: monospace; font-size: 2;font-weight:bold;">my git pets :</samp></h1>
+<hr/>
+<br/>
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
+    <img alt="docs/sample.svg" src="https://render.gitanimals.org/farms/aaronvern"/>
+</a>
+</dive>
+
 <h2><samp style="font-family: monospace; font-size: 2;font-weight:bold;">Languages and Tools :</samp></h2>
 
 <hr/>
