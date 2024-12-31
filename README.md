@@ -27,23 +27,22 @@
 <hr/>
 <br/>
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
-
-  <div style="flex: 3;">
-    <samp>
-      ⚙️  &emsp; I mainly build super pretty and performant web apps.<br/><br/>
-      📡 &emsp; I like Web3<br/><br/>
-      📧 &emsp; Reach me anytime: aaronvernekar@gmail.com<br/><br/>
-      💬 &emsp; Ask me about anything <a href="https://twitter.com/Aaronvern11">here</a>
-    </samp>
+<div>
+  <div style="display: table; width: 100%;">
+    <div style="display: table-cell; width: 75%; vertical-align: top;">
+      <samp>
+        ⚙️  &emsp; I mainly build super pretty and performant web apps.<br/><br/>
+        📡 &emsp; I like Web3<br/><br/>
+        📧 &emsp; Reach me anytime: aaronvernekar@gmail.com<br/><br/>
+        💬 &emsp; Ask me about anything <a href="https://twitter.com/Aaronvern11">here</a>
+      </samp>
+    </div>
+    <div style="display: table-cell; width: 25%; vertical-align: middle; text-align: center;">
+      <a href="https://github.com/devxb/gitanimals">
+        <img src="https://render.gitanimals.org/lines/aaronvern" style="max-width: 100%; height: auto;"/>
+      </a>
+    </div>
   </div>
-
-  <div style="flex: 1;">
-    <a href="https://github.com/devxb/gitanimals">
-      <img src="https://render.gitanimals.org/lines/aaronvern" style="width: 100%; height: auto;"/>
-    </a>
-  </div>
-
 </div>
 
 <br>
